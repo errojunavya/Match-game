@@ -1,0 +1,12 @@
+.images-list-container {
+  list-style-type: none;
+  border: transparent;
+}
+.image {
+  width: 150px;
+  height: 165px;
+  margin: 20px;
+}
+.button {
+  background-color: transparent;
+}
